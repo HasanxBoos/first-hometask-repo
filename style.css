@@ -1,5 +1,5 @@
 h1{
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(47, 0, 255);
     margin-bottom: 20px;
     border-top: 10px;
     padding: 10px;
@@ -11,7 +11,7 @@ h1{
     text-align: justify;
 }
 h2{
-background-color: rgb(255, 0, 0);
+background-color: rgb(17, 0, 255);
     margin-bottom: 20px;
     border-top: 10px;
     padding: 10px;
@@ -23,9 +23,9 @@ background-color: rgb(255, 0, 0);
     text-align: justify;
 }
 p{
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(0, 255, 13);
     margin-bottom: 20px;
-    border-top: 10px;
+    border-top: 10px;git
     padding: 10px;
     border-radius: 10px;
     color: aliceblue;
